@@ -102,3 +102,13 @@ div#message.visible {
     color: red;
     float: right;
 }
+
+/* Facebook Share */
+#facebook
+{
+    position: absolute;
+    bottom: 0;
+    right:10px;
+    z-index: 999;
+}
+
