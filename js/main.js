@@ -14,7 +14,6 @@
   var width = window.innerWidth;
   var height = window.innerHeight;
   var eltScore = $("score");
-  var facebookPartager = $("facebook");
 
   /**
    * The time at which some events happened, in milliseconds since the epoch.
